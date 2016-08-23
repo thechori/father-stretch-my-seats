@@ -322,8 +322,8 @@ body {
   color: #b58c6e;
 }
 #buybtn {
-  color: white;
-  background: #6f8384;
+  color: #000;
+  background: #b58c6e;
   padding: 20px 30px;
   border-radius: 40px;
   font-weight: 600;
@@ -336,5 +336,5 @@ body {
   transition: background 0.5s linear;
 }
 #buybtn:hover {
-  background: #b58c6e;
+  background: #6f8384;
 }
