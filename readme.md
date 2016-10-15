@@ -25,4 +25,4 @@ $ gulp
 $ php -S localhost:3000
 ```
 
-- View the site at (http://localhost:3000)[http://localhost:3000] 
+- View the site at [http://localhost:3000](http://localhost:3000) 
